@@ -23,7 +23,8 @@ Um script em **Batch (.bat)** para Windows que oferece um **menu interativo** co
 * Estilo retrô: **texto ciano em fundo preto**
 * Interface simples em linha de comando
 * Menu numerado para fácil navegação
-* ![Painel Overview](https://media.discordapp.net/attachments/1275291031847567393/1422666287414251591/image.png?ex=68e0cc7a&is=68df7afa&hm=a78443b78d402a3918aed8d615cf85590937bd9b5882a85a94c17e8a14a891e2&=&format=webp&quality=lossless)
+
+![Painel Overview](https://media.discordapp.net/attachments/1275291031847567393/1422666287414251591/image.png?ex=68e0cc7a&is=68df7afa&hm=a78443b78d402a3918aed8d615cf85590937bd9b5882a85a94c17e8a14a891e2&=&format=webp&quality=lossless)
 
 ▶️ Como usar
 
